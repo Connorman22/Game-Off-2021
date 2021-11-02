@@ -1,7 +1,9 @@
 # Game-Off-2021
 
 -----------------
-The public repository for the Game Off 2021 game jam.
+The public repository for the Game Off 2021 game jam.  
+  
+The theme for the game jam is: **Bug**
 
 -------------------
 ```Contributers```
