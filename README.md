@@ -10,3 +10,8 @@ The theme for the game jam is: **Bug**
 >[Connorman22](https://github.com/connorman22) - [Itch.io](https://itch.io/profile/connorman22)
 
 >[Michael-Rusu](https://github.com/michael-rusu) - [Itch.io](https://itch.io/profile/michael-rusu)
+
+
+YO FRIEND ME ON DISCORD 
+
+```Meme_Dev```*#7376*
